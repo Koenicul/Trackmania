@@ -1,0 +1,10 @@
+[
+    {
+        "UpdateStageName": "Download server files",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "http://files.v04.maniaplanet.com/server/TrackmaniaServer_Latest.zip",
+        "UnzipUpdateSource": true,
+        "DeleteAfterExtract": true
+    }
+]
