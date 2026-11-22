@@ -1,0 +1,19 @@
+[
+    {
+        "UpdateStageName": "Download dedicated server",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "302550",
+        "UpdateSourceArgs": "244210",
+        "UpdateSourceTarget": "SteamCMD"
+    },
+    {
+        "UpdateStageName": "Download acsm (linux)",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceArch": "x86_64",
+        "UpdateSourceData": "https://emperorservers.com/control-panel/product/ACSM_Premium/v2.5.0?platform=1",
+        "UnzipUpdateSource": true,
+        "DeleteAfterExtract": true
+    }
+]
