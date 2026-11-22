@@ -1,11 +1,12 @@
 [
     {
         "UpdateStageName": "Download dedicated server",
-        "UpdateSourcePlatform": "All",
+        "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "302550",
         "UpdateSourceArgs": "244210",
-        "UpdateSourceTarget": "SteamCMD"
+        "UpdateSourceTarget": "SteamCMD",
+        "ForceDownloadPlatform": "Windows"
     },
     {
         "UpdateStageName": "Download acsm (linux)",
